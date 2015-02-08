@@ -3,8 +3,8 @@
 | Project | Description | Max. team size | Team |
 | ------- | ----------- | -------------- | ---- |
 | 0 | Implement an async pull version of Rx based on asynchronous iterables. (https://www.youtube.com/watch?v=pOl4E8x3fmw) | 4 | |
-| 1 | Port the new RxJava 0.17 "lift"-based implementation to TypeScript. | 4 | |
-| 2 | Port all the Rx .NET test to RxJava, implementing missing functionality along the way. Grade based on % of tests ported. | 2 | |
+| 1 | Port the new RxJava "lift"-based implementation to TypeScript. | 4 | |
+| 2 | Port all the Rx .NET tests to RxJava, implementing missing functionality along the way. Grade based on % of tests ported. | 2 | |
 | 3 | Create 10 games in RxJS + HTML5 (like http://lessmilk.com/). You get 1 point per game. | 2 | |
 | 4 | Use the vibrate function of your phone to make it turn 360 degrees and take a panoramic image. | 2 | |
 | 5 | Implement a reactive "Big Data" library for hacking the network based on http://shop.oreilly.com/product/9781597499576.do. | 4 | |
