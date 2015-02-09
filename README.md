@@ -14,7 +14,7 @@
 | 9 | Implement http://www.visualsedimentation.org/ from scratch. | 2 | Joop Aué, Martin Rogalla |
 | 10 | Implement your own version of the reactive database Firebase using http://symas.com/mdb/ | 2 | |
 | 11 | Implement a marble-diagram GUI, integrated in IntelliJ, for the Rx testscheduler. | 4 | |
-| 12 | Create Rx bindings for Amazon Kinesis. | 2 | Alex Garella |
+| 12 | Create Rx bindings for Amazon Kinesis. | 2 | Alex Garella, Ping Wan |
 | 13 | Create Rx bindings for a JavaScript UI framework like React, Angular, Can.js, ... | 2 | |
 | 14 | Port ReactiveUI http://www.reactiveui.net/ to RxJava & JavaFx. | 2 | |
 | 15 | Update introtorx.com to the latest version of Rx.NEt and port to RxJava and RxJs. | 1 | |
