@@ -11,7 +11,7 @@
 | 6 | Implement "LINQ to Charts" on top of JavaFx and use it to visualize real-time streaming data. | 2 | |
 | 7 | Implement "LINQ to Charts" on top of https://developers.google.com/chart/ and use it to visualize real-time streaming data. | 2 | |
 | 8 | Create Rx bindings for Google maps and use it to plot real-time data such as earthquakes, ship/airplanes, tides, wind (http://hint.fm/wind/), ... | 2 | |
-| 9 | Implement http://www.visualsedimentation.org/ from scratch. | 2 | |
+| 9 | Implement http://www.visualsedimentation.org/ from scratch. | 2 | Joop Aué |
 | 10 | Implement your own version of the reactive database Firebase using http://symas.com/mdb/ | 2 | |
 | 11 | Implement a marble-diagram GUI, integrated in IntelliJ, for the Rx testscheduler. | 4 | |
 | 12 | Create Rx bindings for Amazon Kinesis. | 2 | Alex Garella |
