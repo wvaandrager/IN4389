@@ -15,7 +15,7 @@
 | 10 | Implement your own version of the reactive database Firebase using http://symas.com/mdb/ | 2 | |
 | 11 | Implement a marble-diagram GUI, integrated in IntelliJ, for the Rx testscheduler. | 4 | |
 | 12 | Create Rx bindings for Amazon Kinesis. | 2 | Alex Garella |
-| 13 | Create Rx bindings for a JavaScript UI framework like React, Angular, Can.js, ... | 2 | |
+| 13 | Create Rx bindings for a JavaScript UI framework like React, Angular, Can.js, ... | 2 | Christof Rabensteiner |
 | 14 | Port ReactiveUI http://www.reactiveui.net/ to RxJava & JavaFx. | 2 | |
 | 15 | Update introtorx.com to the latest version of Rx.NEt and port to RxJava and RxJs. | 1 | |
 | 16 | Write a > 100 page tutorial about Rx on Android (http://mttkay.github.io/blog/2013/08/25/functional-reactive-programming-on-android-with-rxjava/). | 2 | |
