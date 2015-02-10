@@ -7,7 +7,7 @@
 | 2 | Port all the Rx .NET tests to RxJava, implementing missing functionality along the way. Grade based on % of tests ported. | 2 | |
 | 3 | Create 10 games in RxJS + HTML5 (like http://lessmilk.com/). You get 1 point per game. | 2 | Jeffrey de Lange, Herman Banken |
 | 4 | Use the vibrate function of your phone to make it turn 360 degrees and take a panoramic image. | 2 | |
-| 5 | Implement a reactive "Big Data" library for hacking the network based on http://shop.oreilly.com/product/9781597499576.do. | 4 | |Claire Keum |
+| 5 | Implement a reactive "Big Data" library for hacking the network based on http://shop.oreilly.com/product/9781597499576.do. | 4 | Claire Keum |
 | 6 | Implement "LINQ to Charts" on top of JavaFx and use it to visualize real-time streaming data. | 2 | Rik Nijessen, Olaf Maas |
 | 7 | Implement "LINQ to Charts" on top of https://developers.google.com/chart/ and use it to visualize real-time streaming data. | 2 | |
 | 8 | Create Rx bindings for Google maps and use it to plot real-time data such as earthquakes, ship/airplanes, tides, wind (http://hint.fm/wind/), ... | 2 | Joris van den Oever, Ping Wan  |
