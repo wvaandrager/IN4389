@@ -9,7 +9,7 @@
 | 4 | Use the vibrate function of your phone to make it turn 360 degrees and take a panoramic image. | 2 | |
 | 5 | Implement a reactive "Big Data" library for hacking the network based on http://shop.oreilly.com/product/9781597499576.do. | 4 | Claire Keum |
 | 6 | Implement "LINQ to Charts" on top of JavaFx and use it to visualize real-time streaming data. | 2 | Rik Nijessen, Olaf Maas |
-| 7 | Implement "LINQ to Charts" on top of https://developers.google.com/chart/ and use it to visualize real-time streaming data. | 2 | |
+| 7 | Implement "LINQ to Charts" on top of https://developers.google.com/chart/ and use it to visualize real-time streaming data. | 2 | Willem Vaandrager, Wouter Groen |
 | 8 | Create Rx bindings for Google maps and use it to plot real-time data such as earthquakes, ship/airplanes, tides, wind (http://hint.fm/wind/), ... | 2 | Joris van den Oever, Ping Wan  |
 | 9 | Implement http://www.visualsedimentation.org/ from scratch. | 2 | Joop Aué, Martin Rogalla |
 | 10 | Implement your own version of the reactive database Firebase using http://symas.com/mdb/ | 2 | |
